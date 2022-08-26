@@ -1,0 +1,33 @@
+.body {
+    background-color:rgba(10, 186, 10, 0.895);
+}
+
+.h1 {
+    font-weight: bold;
+}
+
+.p1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+.pond {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+.pond2 {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.pond3 {
+    display: flex;
+    justify-content: space-between;
+  }
+
+.pond4 {
+    display: flex;
+    align-items: flex-end;
+}
